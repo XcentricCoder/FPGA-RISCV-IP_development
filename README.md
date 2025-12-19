@@ -13,4 +13,4 @@ RISC-V is a load-store architecture , menaing that the memory and memory-mapped 
 
 ## Where would a new FPGA IP block logically integrate in this system?
 A new FPGA block would be logically integrated as a RTL block code conneccted through the SoC interconnect with RISC-V.
-/workspaces/vsdfpga_labs/basicRISCV/RT
+/workspaces/vsdfpga_labs/basicRISCV/RTL
