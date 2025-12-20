@@ -28,7 +28,7 @@ This task focuses on **toolchain readiness and execution flow verification**, no
 
 **Result:** Codespace environment initialized successfully.
 
-📸 *Screenshot attached*
+![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-21%20003539.png)
 
 ---
 
