@@ -45,7 +45,8 @@ Inside the `vsd-riscv2` Codespace:
 - ✅ Toolchain verified and functional  
 - ✅ No build or execution issues  
 
-📸 *Screenshot attached*
+![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-19%20193946.png)
+
 
 ---
 
