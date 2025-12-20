@@ -61,12 +61,14 @@ cd vsdfpga_labs
 - Followed the instructions provided in the repository
   ![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-20%20011417.png)
 - Built and ran basic labs that do not require FPGA hardware
-   
+  ![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-20%20122137.png)
 - Verified successful execution through simulation output and logs
+  ![Outcome](
 
 ### Outcome
 - ✅ Multi-repository workflow verified
 - ✅ VSDFPGA labs executed successfully (simulation-based)
+- ✅ Generated BRAM hex from firmware
 - ✅ Environment ready for IP and SoC-level development tasks
 
 
