@@ -59,7 +59,9 @@ cd vsdfpga_labs
 ```
 
 - Followed the instructions provided in the repository
+  ![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-20%20011417.png)
 - Built and ran basic labs that do not require FPGA hardware
+   
 - Verified successful execution through simulation output and logs
 
 ### Outcome
