@@ -63,8 +63,9 @@ cd vsdfpga_labs
 - Built and ran basic labs that do not require FPGA hardware
   ![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-20%20122137.png)
 - Verified successful execution through simulation output and logs
+  ![Outcome](https://github.com/XcentricCoder/FPGA-RISCV-IP_development/blob/main/Screenshot%202025-12-20%20003521.png)
+- FPGA tools (yosys, nextpnr, programmers, drivers) must NOT be installed. Hence, firmware was built but bitstream generation wasn't possible at this stage.
   ![Outcome](
-
 ### Outcome
 - ✅ Multi-repository workflow verified
 - ✅ VSDFPGA labs executed successfully (simulation-based)
